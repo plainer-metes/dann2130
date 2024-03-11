@@ -13,3 +13,4 @@ Act as if what you do makes a difference. It does. Quantum Computing A/B Testing
 Container Orchestration Kafka Testing Neural Networks Load Testing RabbitMQ Logging Happiness is not something ready made. It comes from your own actions. Deployment
 Algorithm Testing Big Data CI/CD Innovation distinguishes between a leader and a follower. Server Response
 Monitoring Containerization Docker Artificial Intelligence Parallel Processing Database Indexing Microservices API Don't be afraid to give up the good to go for the great. Content Delivery Network NLP React
+Pull Request Big Data Containerization Virtual Machines Load Testing Success doesn’t just find you. You have to go out and get it. Kubernetes Do what you love and the money will follow. To be the best, you must be able to handle the worst. OAuth

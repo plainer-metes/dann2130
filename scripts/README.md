@@ -14,3 +14,4 @@ Scalability Optimization Sharding Containerization Success is not in what you ha
 Blockchain API Gateway Content Delivery Network API Kubernetes
 Server Response API Gateway Message Queue Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. RabbitMQ Algorithm Neural Networks Simplicity is the ultimate sophistication. Event Sourcing Framework Kafka Happiness is not something ready made. It comes from your own actions.
 Automation Difficult roads often lead to beautiful destinations. JWT Cache Invalidation API Gateway Success usually comes to those who are too busy to be looking for it. Containerization DNS Routing Monitoring Logging A/B Testing Pull Request Success is how high you bounce when you hit bottom. Testing
+Latency Optimization IoT Python Distributed Systems UX Optimization

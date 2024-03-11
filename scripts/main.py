@@ -14,3 +14,4 @@ Artificial Intelligence Containerization DNS Routing Version Control Kubernetes 
 Virtual Machines Replica Set Event-driven Architecture Cloud Functions CI/CD API Gateway
 API JWT Dream big and dare to fail. A/B Testing Performance Frontend Quantum Computing Lambda Functions Cache Invalidation Zero Downtime Deployment Machine Learning Difficult roads often lead to beautiful destinations. Server Response
 A/B Testing Container Orchestration JavaScript Big Data DevOps
+Act as if what you do makes a difference. It does. Load Balancing Work hard in silence, let your success be your noise. API Gateway Code Review Event Sourcing Automation
