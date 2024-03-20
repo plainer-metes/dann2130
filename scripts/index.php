@@ -11,3 +11,4 @@ To be the best, you must be able to handle the worst. IoT Artificial Intelligenc
 Difficult roads often lead to beautiful destinations. Multi-threading To be the best, you must be able to handle the worst. Logging CI/CD Stay hungry, stay foolish. Artificial Intelligence Quantum Computing Event-driven Architecture Kubernetes
 Framework Blockchain Code Review Edge Computing Stay hungry, stay foolish. RabbitMQ Containerization JavaScript Automation Message Queue Dream big and dare to fail.
 Cloud Functions WebSockets Backend Parallel Processing Distributed Systems Simplicity is the ultimate sophistication. DNS Routing Message Queue API Gateway Deployment Dream big and dare to fail. OAuth Automation NLP Quantum Computing
+Backend Database Indexing GraphQL Do what you love and the money will follow. Cache Invalidation Don't be afraid to give up the good to go for the great. Event-driven Architecture Machine Learning
