@@ -11,3 +11,4 @@ Predictive Analytics Artificial Intelligence Docker Automation CI/CD
 React Algorithm Replica Set Frontend Latency Optimization A/B Testing Database Security
 Sharding DevOps Agile Event Sourcing Predictive Analytics Python Content Delivery Network Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Artificial Intelligence Cloud Functions
 Logging RabbitMQ Load Balancing Code Review Backend
+Success doesn’t just find you. You have to go out and get it. Code Review Kubernetes Firewalls Cloud If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Event Sourcing Zero Downtime Deployment Edge Computing
