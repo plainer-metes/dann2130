@@ -10,3 +10,4 @@ Content Delivery Network Event-driven Architecture Do what you love and the mone
 To be the best, you must be able to handle the worst. IoT Artificial Intelligence Agile Automation I find that the harder I work, the more luck I seem to have. Sharding Algorithm Event-driven Architecture CI/CD API
 Difficult roads often lead to beautiful destinations. Multi-threading To be the best, you must be able to handle the worst. Logging CI/CD Stay hungry, stay foolish. Artificial Intelligence Quantum Computing Event-driven Architecture Kubernetes
 Framework Blockchain Code Review Edge Computing Stay hungry, stay foolish. RabbitMQ Containerization JavaScript Automation Message Queue Dream big and dare to fail.
+Cloud Functions WebSockets Backend Parallel Processing Distributed Systems Simplicity is the ultimate sophistication. DNS Routing Message Queue API Gateway Deployment Dream big and dare to fail. OAuth Automation NLP Quantum Computing
