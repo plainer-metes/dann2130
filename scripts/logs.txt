@@ -12,3 +12,4 @@ Latency Optimization WebSockets Load Balancing DNS Routing Microservices Distrib
 Act as if what you do makes a difference. It does. Quantum Computing A/B Testing Serverless Event Sourcing Agile Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. Cloud Functions Kafka
 Container Orchestration Kafka Testing Neural Networks Load Testing RabbitMQ Logging Happiness is not something ready made. It comes from your own actions. Deployment
 Algorithm Testing Big Data CI/CD Innovation distinguishes between a leader and a follower. Server Response
+Monitoring Containerization Docker Artificial Intelligence Parallel Processing Database Indexing Microservices API Don't be afraid to give up the good to go for the great. Content Delivery Network NLP React
