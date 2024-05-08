@@ -10,3 +10,4 @@ Big Data Docker IoT Automation Stay hungry, stay foolish. The only way to do gre
 Do what you love and the money will follow. Lambda Functions Automation Backend RabbitMQ Innovation distinguishes between a leader and a follower. Cloud Agile Data Science Success is how high you bounce when you hit bottom. Cloud Functions Content Delivery Network I find that the harder I work, the more luck I seem to have. Data Pipeline
 GraphQL Docker Zero Downtime Deployment Algorithm Kafka Cache Invalidation Innovation distinguishes between a leader and a follower. Sharding Logging Success is not in what you have, but who you are.
 OAuth Server Response Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Latency Optimization Agile Success is not in what you have, but who you are. Microservices Cache Invalidation
+Replica Set Data Science GraphQL Pull Request Innovation distinguishes between a leader and a follower. Testing
