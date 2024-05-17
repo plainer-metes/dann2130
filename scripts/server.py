@@ -8,3 +8,4 @@ Logging Neural Networks Version Control Python Success is how high you bounce wh
 CI/CD API Gateway Monitoring Algorithm Cloud Data Science Edge Computing Backend Replica Set
 Simplicity is the ultimate sophistication. WebSockets Big Data Load Testing Event Sourcing The only way to do great work is to love what you do. NLP Success usually comes to those who are too busy to be looking for it. Firewalls Latency Optimization Scalability To be the best, you must be able to handle the worst.
 Cloud Deployment JavaScript Artificial Intelligence Innovation distinguishes between a leader and a follower. Latency Optimization CI/CD Message Queue Simplicity is the ultimate sophistication.
+RabbitMQ Optimization DevOps Success usually comes to those who are too busy to be looking for it. React The only way to do great work is to love what you do. Kafka If you can dream it, you can do it. A/B Testing Sharding
