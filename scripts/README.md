@@ -10,3 +10,4 @@ Docker Algorithm Lambda Functions Don't be afraid to give up the good to go for 
 Deployment Monitoring DevOps Frontend NLP
 Dream big and dare to fail. Multi-threading Docker Latency Optimization Distributed Systems Opportunities don't happen. You create them.
 I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. DNS Routing Logging Success is how high you bounce when you hit bottom. Cache Invalidation JWT API Predictive Analytics Big Data Microservices Don't be afraid to give up the good to go for the great. Python JavaScript
+Scalability Optimization Sharding Containerization Success is not in what you have, but who you are. DevOps Performance Cache Invalidation Dream big and dare to fail. Big Data Database Indexing UX Optimization Container Orchestration Blockchain Virtual Machines
