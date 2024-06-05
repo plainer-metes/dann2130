@@ -7,3 +7,4 @@ Scalability I find that the harder I work, the more luck I seem to have. Do what
 Performance Machine Learning Scalability GraphQL Latency Optimization The only way to do great work is to love what you do. Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Microservices
 Big Data Monitoring Database Indexing Algorithm Firewalls
 Content Delivery Network Event-driven Architecture Do what you love and the money will follow. Container Orchestration Blockchain Innovation distinguishes between a leader and a follower. Python
+To be the best, you must be able to handle the worst. IoT Artificial Intelligence Agile Automation I find that the harder I work, the more luck I seem to have. Sharding Algorithm Event-driven Architecture CI/CD API
