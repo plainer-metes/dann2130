@@ -10,3 +10,4 @@ Content Delivery Network Testing Kafka UX Optimization Machine Learning Event-dr
 Frontend To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. UX Optimization IoT Logging Virtual Machines If you can dream it, you can do it. Security Pull Request JWT Opportunities don't happen. You create them.
 Database Indexing Message Queue UX Optimization Deployment Automation
 Replica Set Monitoring Virtual Machines Don't be afraid to give up the good to go for the great. Data Pipeline Great things never come from comfort zones.
+Artificial Intelligence Containerization DNS Routing Version Control Kubernetes Message Queue A/B Testing Automation Work hard in silence, let your success be your noise.
