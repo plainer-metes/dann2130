@@ -8,3 +8,4 @@ WebSockets Success usually comes to those who are too busy to be looking for it.
 Firewalls Big Data Latency Optimization Version Control DevOps If you can dream it, you can do it. Logging Machine Learning Backend Cloud Python Act as if what you do makes a difference. It does. Do what you love and the money will follow.
 Kubernetes React API Cloud JavaScript CI/CD Performance Machine Learning
 RabbitMQ Act as if what you do makes a difference. It does. Event Sourcing JWT Load Balancing React Version Control
+Latency Optimization WebSockets Load Balancing DNS Routing Microservices Distributed Systems JWT Pull Request JavaScript Work hard in silence, let your success be your noise.

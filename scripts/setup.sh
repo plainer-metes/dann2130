@@ -2,3 +2,4 @@ Happiness is not something ready made. It comes from your own actions. Sharding 
 Python Virtual Machines Load Balancing Cloud Event-driven Architecture Replica Set Database Indexing
 Machine Learning Performance Data Pipeline The only way to do great work is to love what you do. Message Queue Cache Invalidation
 NLP Blockchain Testing Opportunities don't happen. You create them. Load Testing Load Balancing
+Parallel Processing Containerization Version Control Act as if what you do makes a difference. It does. Replica Set Success doesn’t just find you. You have to go out and get it. Virtual Machines
