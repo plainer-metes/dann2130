@@ -6,3 +6,4 @@ Automation Innovation distinguishes between a leader and a follower. Data Scienc
 Scalability I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Serverless Difficult roads often lead to beautiful destinations. React Innovation distinguishes between a leader and a follower. Agile Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Stay hungry, stay foolish.
 Performance Machine Learning Scalability GraphQL Latency Optimization The only way to do great work is to love what you do. Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Microservices
 Big Data Monitoring Database Indexing Algorithm Firewalls
+Content Delivery Network Event-driven Architecture Do what you love and the money will follow. Container Orchestration Blockchain Innovation distinguishes between a leader and a follower. Python
