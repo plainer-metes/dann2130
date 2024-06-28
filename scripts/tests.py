@@ -8,3 +8,4 @@ Zero Downtime Deployment Happiness is not something ready made. It comes from yo
 React Sharding Virtual Machines Containerization The only way to do great work is to love what you do. Big Data
 Distributed Systems Version Control Cloud Kafka Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. NLP To be the best, you must be able to handle the worst.
 Firewalls Do what you love and the money will follow. Performance UX Optimization Data Science Backend RabbitMQ IoT
+Neural Networks Testing Logging Backend I find that the harder I work, the more luck I seem to have. Kafka Work hard in silence, let your success be your noise. JWT Cloud Functions Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Database Scalability Simplicity is the ultimate sophistication.
