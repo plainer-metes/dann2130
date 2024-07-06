@@ -6,3 +6,4 @@ Success is not in what you have, but who you are. GraphQL Backend I find that th
 Cloud Server Response The only way to do great work is to love what you do. DevOps Container Orchestration Zero Downtime Deployment Replica Set Database Code Review Docker Latency Optimization
 Logging Neural Networks Version Control Python Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. IoT Success doesn’t just find you. You have to go out and get it. Security Data Pipeline Optimization Kafka CI/CD
 CI/CD API Gateway Monitoring Algorithm Cloud Data Science Edge Computing Backend Replica Set
+Simplicity is the ultimate sophistication. WebSockets Big Data Load Testing Event Sourcing The only way to do great work is to love what you do. NLP Success usually comes to those who are too busy to be looking for it. Firewalls Latency Optimization Scalability To be the best, you must be able to handle the worst.
