@@ -8,3 +8,4 @@ Docker DevOps Artificial Intelligence Do what you love and the money will follow
 Firewalls Lambda Functions Do what you love and the money will follow. JWT API
 Version Control Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Framework Security Optimization Zero Downtime Deployment Python IoT React JavaScript Data Science Innovation distinguishes between a leader and a follower.
 Firewalls Parallel Processing Kafka Database Cache Invalidation Machine Learning Scalability Container Orchestration
+Zero Downtime Deployment Data Science Success doesn’t just find you. You have to go out and get it. Deployment Agile DNS Routing
