@@ -7,3 +7,4 @@ Innovation distinguishes between a leader and a follower. Success is not in what
 Data Science Success is how high you bounce when you hit bottom. Load Balancing Content Delivery Network Kafka Microservices Serverless Version Control Data Pipeline WebSockets Server Response Neural Networks JWT
 NLP Serverless Container Orchestration Frontend IoT Latency Optimization Difficult roads often lead to beautiful destinations. API
 CI/CD Success doesn’t just find you. You have to go out and get it. Automation NLP WebSockets Don't be afraid to give up the good to go for the great. Pull Request Database Indexing Firewalls Algorithm Container Orchestration Scalability
+Framework Scalability Success doesn’t just find you. You have to go out and get it. WebSockets I find that the harder I work, the more luck I seem to have. Load Testing Parallel Processing UX Optimization Microservices Docker Cloud Functions Event-driven Architecture Cloud
