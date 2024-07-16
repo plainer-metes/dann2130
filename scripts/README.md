@@ -8,3 +8,4 @@ Agile Load Balancing Data Pipeline Distributed Systems Quantum Computing Success
 Message Queue Act as if what you do makes a difference. It does. Cloud Functions Server Response Monitoring Cache Invalidation DNS Routing Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. CI/CD Data Pipeline Frontend
 Docker Algorithm Lambda Functions Don't be afraid to give up the good to go for the great. WebSockets NLP
 Deployment Monitoring DevOps Frontend NLP
+Dream big and dare to fail. Multi-threading Docker Latency Optimization Distributed Systems Opportunities don't happen. You create them.
