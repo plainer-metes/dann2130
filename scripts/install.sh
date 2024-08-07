@@ -6,3 +6,4 @@ Monitoring Algorithm Success is how high you bounce when you hit bottom. Server 
 NLP Server Response Monitoring Logging IoT Framework Data Pipeline DevOps Dream big and dare to fail. Database Indexing If you can dream it, you can do it.
 Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Distributed Systems Do what you love and the money will follow. Act as if what you do makes a difference. It does. Success is not in what you have, but who you are.
 Zero Downtime Deployment A/B Testing UX Optimization Innovation distinguishes between a leader and a follower. Container Orchestration
+Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. API Gateway Kafka RabbitMQ Simplicity is the ultimate sophistication. JWT API Containerization Quantum Computing Happiness is not something ready made. It comes from your own actions. Content Delivery Network
