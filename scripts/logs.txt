@@ -5,3 +5,4 @@ Content Delivery Network CI/CD Predictive Analytics Happiness is not something r
 Version Control Code Review Database NLP Serverless Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. CI/CD Great things never come from comfort zones. Deployment Machine Learning Database Indexing Multi-threading Replica Set Monitoring
 Success is not in what you have, but who you are. API IoT Cloud Blockchain CI/CD Data Pipeline Performance React Backend Agile Server Response
 WebSockets Success usually comes to those who are too busy to be looking for it. Framework Sharding Simplicity is the ultimate sophistication. DevOps Security Data Science
+Firewalls Big Data Latency Optimization Version Control DevOps If you can dream it, you can do it. Logging Machine Learning Backend Cloud Python Act as if what you do makes a difference. It does. Do what you love and the money will follow.
