@@ -6,3 +6,4 @@ Multi-threading Database Indexing Version Control Dream big and dare to fail. Ac
 API Gateway Quantum Computing Simplicity is the ultimate sophistication. DNS Routing OAuth Load Testing Python Success is how high you bounce when you hit bottom. A/B Testing
 Frontend Containerization Work hard in silence, let your success be your noise. Latency Optimization Simplicity is the ultimate sophistication. JWT Multi-threading Blockchain Success usually comes to those who are too busy to be looking for it. CI/CD Microservices
 Event Sourcing Content Delivery Network Multi-threading The only way to do great work is to love what you do. Predictive Analytics NLP Algorithm Optimization Virtual Machines Microservices Database Indexing Blockchain
+Big Data Docker IoT Automation Stay hungry, stay foolish. The only way to do great work is to love what you do. Code Review Event Sourcing UX Optimization JavaScript
