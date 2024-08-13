@@ -3,3 +3,4 @@ Cache Invalidation Agile Blockchain Success is how high you bounce when you hit 
 Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Data Science Predictive Analytics Database Indexing Machine Learning
 To be the best, you must be able to handle the worst. Security A/B Testing Success doesn’t just find you. You have to go out and get it. React
 Content Delivery Network WebSockets Event Sourcing API Gateway Algorithm Multi-threading Testing Cloud
+NLP RabbitMQ Don't be afraid to give up the good to go for the great. Containerization Version Control Content Delivery Network Stay hungry, stay foolish. Artificial Intelligence Docker Quantum Computing Great things never come from comfort zones. Parallel Processing
