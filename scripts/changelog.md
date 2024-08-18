@@ -5,3 +5,4 @@ Stay hungry, stay foolish. Data Pipeline RabbitMQ Backend UX Optimization Blockc
 Code Review Event-driven Architecture API Gateway Simplicity is the ultimate sophistication. Pull Request Zero Downtime Deployment Version Control
 Framework I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Testing API Gateway Code Review Kubernetes If you can dream it, you can do it. Event-driven Architecture Monitoring Database
 Artificial Intelligence Big Data DNS Routing WebSockets A/B Testing IoT
+Docker Optimization Replica Set Version Control Load Testing Code Review
