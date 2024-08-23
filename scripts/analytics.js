@@ -5,3 +5,4 @@ Distributed Systems Automation Load Testing OAuth Container Orchestration To be 
 The only way to do great work is to love what you do. Scalability NLP Frontend Event Sourcing I find that the harder I work, the more luck I seem to have. Automation
 Scalability I find that the harder I work, the more luck I seem to have. UX Optimization API Gateway Database Algorithm Deployment Zero Downtime Deployment Load Balancing JWT
 Container Orchestration Load Testing Content Delivery Network Sharding Serverless Cloud
+NLP Work hard in silence, let your success be your noise. Parallel Processing Big Data Database UX Optimization
