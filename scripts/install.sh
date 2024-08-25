@@ -4,3 +4,4 @@ Neural Networks OAuth Simplicity is the ultimate sophistication. Backend Distrib
 Containerization NLP Parallel Processing Replica Set UX Optimization Performance Frontend Sharding To be the best, you must be able to handle the worst. JavaScript Blockchain Monitoring React
 Monitoring Algorithm Success is how high you bounce when you hit bottom. Server Response Backend Frontend
 NLP Server Response Monitoring Logging IoT Framework Data Pipeline DevOps Dream big and dare to fail. Database Indexing If you can dream it, you can do it.
+Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Distributed Systems Do what you love and the money will follow. Act as if what you do makes a difference. It does. Success is not in what you have, but who you are.
