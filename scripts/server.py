@@ -5,3 +5,4 @@ The only way to do great work is to love what you do. Code Review WebSockets Inn
 Success is not in what you have, but who you are. GraphQL Backend I find that the harder I work, the more luck I seem to have. Monitoring Deployment Act as if what you do makes a difference. It does. DevOps
 Cloud Server Response The only way to do great work is to love what you do. DevOps Container Orchestration Zero Downtime Deployment Replica Set Database Code Review Docker Latency Optimization
 Logging Neural Networks Version Control Python Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. IoT Success doesn’t just find you. You have to go out and get it. Security Data Pipeline Optimization Kafka CI/CD
+CI/CD API Gateway Monitoring Algorithm Cloud Data Science Edge Computing Backend Replica Set
