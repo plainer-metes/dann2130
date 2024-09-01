@@ -4,3 +4,4 @@ OAuth Performance Load Balancing Kafka Agile Code Review Database Indexing Quant
 Distributed Systems Automation Load Testing OAuth Container Orchestration To be the best, you must be able to handle the worst. IoT
 The only way to do great work is to love what you do. Scalability NLP Frontend Event Sourcing I find that the harder I work, the more luck I seem to have. Automation
 Scalability I find that the harder I work, the more luck I seem to have. UX Optimization API Gateway Database Algorithm Deployment Zero Downtime Deployment Load Balancing JWT
+Container Orchestration Load Testing Content Delivery Network Sharding Serverless Cloud
