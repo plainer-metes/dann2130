@@ -4,3 +4,4 @@ Cloud Sharding Lambda Functions Success doesn’t just find you. You have to go ou
 Content Delivery Network CI/CD Predictive Analytics Happiness is not something ready made. It comes from your own actions. Blockchain Edge Computing Algorithm Server Response RabbitMQ Simplicity is the ultimate sophistication. GraphQL Python The only way to do great work is to love what you do.
 Version Control Code Review Database NLP Serverless Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. CI/CD Great things never come from comfort zones. Deployment Machine Learning Database Indexing Multi-threading Replica Set Monitoring
 Success is not in what you have, but who you are. API IoT Cloud Blockchain CI/CD Data Pipeline Performance React Backend Agile Server Response
+WebSockets Success usually comes to those who are too busy to be looking for it. Framework Sharding Simplicity is the ultimate sophistication. DevOps Security Data Science
