@@ -3,3 +3,4 @@ Content Delivery Network Testing IoT Artificial Intelligence Replica Set Pull Re
 Difficult roads often lead to beautiful destinations. Parallel Processing Scalability Firewalls OAuth If you can dream it, you can do it. Version Control
 Stay hungry, stay foolish. Data Pipeline RabbitMQ Backend UX Optimization Blockchain Success usually comes to those who are too busy to be looking for it. Optimization Parallel Processing IoT Database CI/CD Testing Multi-threading
 Code Review Event-driven Architecture API Gateway Simplicity is the ultimate sophistication. Pull Request Zero Downtime Deployment Version Control
+Framework I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Testing API Gateway Code Review Kubernetes If you can dream it, you can do it. Event-driven Architecture Monitoring Database
