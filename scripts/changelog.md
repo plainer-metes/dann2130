@@ -2,3 +2,4 @@ Performance Framework To be the best, you must be able to handle the worst. I fi
 Content Delivery Network Testing IoT Artificial Intelligence Replica Set Pull Request Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Containerization Innovation distinguishes between a leader and a follower. Algorithm Logging DevOps Data Science React
 Difficult roads often lead to beautiful destinations. Parallel Processing Scalability Firewalls OAuth If you can dream it, you can do it. Version Control
 Stay hungry, stay foolish. Data Pipeline RabbitMQ Backend UX Optimization Blockchain Success usually comes to those who are too busy to be looking for it. Optimization Parallel Processing IoT Database CI/CD Testing Multi-threading
+Code Review Event-driven Architecture API Gateway Simplicity is the ultimate sophistication. Pull Request Zero Downtime Deployment Version Control
