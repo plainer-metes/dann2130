@@ -5,3 +5,4 @@ Act as if what you do makes a difference. It does. Do what you love and the mone
 Kafka Success is how high you bounce when you hit bottom. Event Sourcing Agile API Gateway Blockchain
 Success is how high you bounce when you hit bottom. Event Sourcing Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Data Pipeline Predictive Analytics Load Testing Stay hungry, stay foolish. The only way to do great work is to love what you do. Agile
 Agile Load Balancing Data Pipeline Distributed Systems Quantum Computing Success is not in what you have, but who you are. Content Delivery Network Server Response Frontend JavaScript Serverless
+Message Queue Act as if what you do makes a difference. It does. Cloud Functions Server Response Monitoring Cache Invalidation DNS Routing Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. CI/CD Data Pipeline Frontend
