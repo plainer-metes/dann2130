@@ -2,3 +2,4 @@ Event-driven Architecture API Gateway Replica Set Parallel Processing Latency Op
 Containerization I find that the harder I work, the more luck I seem to have. Load Testing Success is not in what you have, but who you are. A/B Testing Opportunities don't happen. You create them.
 Cloud Functions Don't be afraid to give up the good to go for the great. Quantum Computing Innovation distinguishes between a leader and a follower. JWT Cloud CI/CD
 Algorithm Edge Computing Difficult roads often lead to beautiful destinations. Server Response Great things never come from comfort zones. Machine Learning Database Data Pipeline UX Optimization JWT Optimization To be the best, you must be able to handle the worst. Kafka
+Innovation distinguishes between a leader and a follower. Database Indexing Latency Optimization Blockchain CI/CD Security DNS Routing Zero Downtime Deployment
