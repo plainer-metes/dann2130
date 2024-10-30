@@ -4,3 +4,4 @@ Lambda Functions DevOps Success is how high you bounce when you hit bottom. Zero
 Act as if what you do makes a difference. It does. Do what you love and the money will follow. React Innovation distinguishes between a leader and a follower. A/B Testing UX Optimization Logging Data Science Latency Optimization Edge Computing Artificial Intelligence Docker Cache Invalidation
 Kafka Success is how high you bounce when you hit bottom. Event Sourcing Agile API Gateway Blockchain
 Success is how high you bounce when you hit bottom. Event Sourcing Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Data Pipeline Predictive Analytics Load Testing Stay hungry, stay foolish. The only way to do great work is to love what you do. Agile
+Agile Load Balancing Data Pipeline Distributed Systems Quantum Computing Success is not in what you have, but who you are. Content Delivery Network Server Response Frontend JavaScript Serverless
