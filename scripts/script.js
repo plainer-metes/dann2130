@@ -3,3 +3,4 @@ Scalability Cache Invalidation IoT The only way to do great work is to love what
 Artificial Intelligence Data Pipeline Success doesn’t just find you. You have to go out and get it. Framework Blockchain Simplicity is the ultimate sophistication. Automation
 API Gateway Dream big and dare to fail. A/B Testing Act as if what you do makes a difference. It does. CI/CD Microservices Firewalls OAuth Great things never come from comfort zones. Difficult roads often lead to beautiful destinations.
 Multi-threading Database Indexing Version Control Dream big and dare to fail. Act as if what you do makes a difference. It does. Deployment Docker UX Optimization WebSockets
+API Gateway Quantum Computing Simplicity is the ultimate sophistication. DNS Routing OAuth Load Testing Python Success is how high you bounce when you hit bottom. A/B Testing

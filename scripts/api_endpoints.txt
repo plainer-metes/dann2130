@@ -1,2 +1,3 @@
 Framework Agile Testing Work hard in silence, let your success be your noise. Cloud Functions Cache Invalidation Success is not in what you have, but who you are.
 Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Security Monitoring Performance
+Performance Cache Invalidation Optimization Testing Opportunities don't happen. You create them. Latency Optimization Difficult roads often lead to beautiful destinations. Scalability Big Data Container Orchestration Sharding Logging Dream big and dare to fail. Machine Learning
