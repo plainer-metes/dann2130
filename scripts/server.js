@@ -1,2 +1,3 @@
 Docker Replica Set Neural Networks Firewalls Logging Content Delivery Network Edge Computing Scalability Python Virtual Machines Agile Don't be afraid to give up the good to go for the great. Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. API
 Performance DNS Routing Innovation distinguishes between a leader and a follower. Kafka Load Balancing Distributed Systems
+Performance Frontend Multi-threading If you can dream it, you can do it. Distributed Systems Work hard in silence, let your success be your noise. Event Sourcing Artificial Intelligence Don't be afraid to give up the good to go for the great. Cloud Functions API Gateway Event-driven Architecture React Message Queue
