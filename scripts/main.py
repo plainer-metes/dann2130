@@ -1,2 +1,3 @@
 Event-driven Architecture API Gateway Replica Set Parallel Processing Latency Optimization Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. Framework Neural Networks Database Indexing GraphQL Testing Serverless
 Containerization I find that the harder I work, the more luck I seem to have. Load Testing Success is not in what you have, but who you are. A/B Testing Opportunities don't happen. You create them.
+Cloud Functions Don't be afraid to give up the good to go for the great. Quantum Computing Innovation distinguishes between a leader and a follower. JWT Cloud CI/CD
