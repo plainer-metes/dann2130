@@ -2,3 +2,4 @@ Scalability Dream big and dare to fail. Don't be afraid to give up the good to g
 Blockchain Backend Do what you love and the money will follow. Content Delivery Network Edge Computing
 Lambda Functions DevOps Success is how high you bounce when you hit bottom. Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Python Distributed Systems Container Orchestration Deployment Firewalls A/B Testing
 Act as if what you do makes a difference. It does. Do what you love and the money will follow. React Innovation distinguishes between a leader and a follower. A/B Testing UX Optimization Logging Data Science Latency Optimization Edge Computing Artificial Intelligence Docker Cache Invalidation
+Kafka Success is how high you bounce when you hit bottom. Event Sourcing Agile API Gateway Blockchain
