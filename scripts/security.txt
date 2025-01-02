@@ -1,1 +1,2 @@
 Message Queue Simplicity is the ultimate sophistication. Big Data Testing Event Sourcing UX Optimization Server Response Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. API Database OAuth Quantum Computing
+RabbitMQ Multi-threading Containerization NLP Quantum Computing Predictive Analytics Load Testing Frontend Data Science DNS Routing Cloud Event Sourcing Dream big and dare to fail. Event-driven Architecture Kubernetes
