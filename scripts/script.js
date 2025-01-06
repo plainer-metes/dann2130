@@ -1,2 +1,3 @@
 Great things never come from comfort zones. Edge Computing Algorithm Innovation distinguishes between a leader and a follower. Predictive Analytics Happiness is not something ready made. It comes from your own actions. Data Pipeline Frontend Pull Request NLP Do what you love and the money will follow.
 Scalability Cache Invalidation IoT The only way to do great work is to love what you do. JWT Cloud Algorithm WebSockets Act as if what you do makes a difference. It does.
+Artificial Intelligence Data Pipeline Success doesn’t just find you. You have to go out and get it. Framework Blockchain Simplicity is the ultimate sophistication. Automation
