@@ -1,3 +1,4 @@
 Data Science Docker Work hard in silence, let your success be your noise. CI/CD WebSockets RabbitMQ Security Success is not in what you have, but who you are. Database Content Delivery Network
 Python Virtual Machines Docker Firewalls Load Balancing Success doesn’t just find you. You have to go out and get it. Monitoring Lambda Functions Message Queue Optimization Difficult roads often lead to beautiful destinations. Serverless Success is how high you bounce when you hit bottom.
 Latency Optimization Success doesn’t just find you. You have to go out and get it. Cloud Neural Networks Do what you love and the money will follow. A/B Testing Artificial Intelligence NLP Kafka Load Testing Serverless Frontend Database Indexing
+Stay hungry, stay foolish. Server Response Python Predictive Analytics Logging RabbitMQ Virtual Machines Zero Downtime Deployment Testing
