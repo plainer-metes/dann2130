@@ -1,0 +1,1 @@
+Database Success is not in what you have, but who you are. Content Delivery Network GraphQL WebSockets Frontend Code Review NLP Event Sourcing Success is how high you bounce when you hit bottom. Artificial Intelligence
